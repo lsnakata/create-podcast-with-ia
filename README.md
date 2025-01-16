@@ -16,7 +16,7 @@ CINE IA - FILMES QUE VALEM CADA PIPOCA - CLIP - EP.01
 
  > 🗒️ **SOBRE:** Este é o repositório desenvolvido durante o Bootcamp promovido pela plataforma da [DIO](https://dio.me) em parceria com a Caixa Econômica Federal e a Microsoft. Projeto com o objetivo de explorar e aprimorar o uso das plataformas de Inteligência Artificial disponíveis através do desenvolvimento de um podcast utilizando Prompts mais detalhados. 
 
-<a href="https://github.com/lsnakata/create-ebook-with-chatgpt/blob/main/E-book_Desafio_DIO.pdf" title="View PDF Now"> 📕e-Book disponível para leitura aqui</a>
+<a href="https://github.com/lsnakata/create-podcast-with-ia/blob/main/CINE_IA-EP.01.MP3" title="Listen Audio Now"> ⏯️ Podcast disponível para download aqui</a>
 
 
 ## 🖋️ Ferramentas Utilizadas no Projeto
